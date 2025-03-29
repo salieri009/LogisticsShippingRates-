@@ -1,3 +1,6 @@
+# This is for the merging practice for students 
+-- 
+
 Please consider the below factors while contributing
 
 Code Style:
